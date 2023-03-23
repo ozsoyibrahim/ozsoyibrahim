@@ -1,4 +1,6 @@
-### Hi I'm Ibrahim Ozsoy. 👋
+### Hi I'm Ibrahim Ozsoy 👋
+
+<hr /> 
 
 * I am a Front End Developer who is open to development and loves to learn.
 
@@ -12,13 +14,12 @@
 
 * I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
 
+![html-css-js](https://user-images.githubusercontent.com/121384742/227380366-3c814086-6fa5-41ae-ab3f-c8180823f815.png) ![bootstrap](https://user-images.githubusercontent.com/121384742/227380387-11fd5e69-066f-459a-8592-089b55f555da.png) ![sass](https://user-images.githubusercontent.com/121384742/227380418-f870b122-6e37-4c1d-af8b-605d4cf899d4.png) ![slack](https://user-images.githubusercontent.com/121384742/227380437-f3e8011e-fcef-4787-a4ba-ba73506517ac.png) ![figma](https://user-images.githubusercontent.com/121384742/227380464-aa9a7da4-00d9-48e2-869c-0e810db2f3c9.png) ![github2](https://user-images.githubusercontent.com/121384742/227380492-cab0a0f1-308c-40cf-82cc-634aca68685e.png)
 
-![html-css-js](https://user-images.githubusercontent.com/121384742/227376183-ec6a1314-e34f-4c6a-8112-7a90e9c75993.png) ![bootstrap](https://user-images.githubusercontent.com/121384742/227376894-c02a743a-db98-45e7-86ee-288939f3b1d8.png) ![sass](https://user-images.githubusercontent.com/121384742/227376904-25c30472-ba9b-4a10-aa4f-3754698138cb.png) ![github2](https://user-images.githubusercontent.com/121384742/227376449-e501745f-8502-44a9-b9ff-5525ab4d6d9f.png) ![slack](https://user-images.githubusercontent.com/121384742/227377482-a9a7e1d1-6931-446f-aa10-d176815b240e.png) ![figma](https://user-images.githubusercontent.com/121384742/227378254-4dbcb32d-a743-4674-8ede-437a86876d57.png)
-
-<a href="https://www.linkedin.com/in/ibrahimozsoy/"> ![LinkedIn](https://user-images.githubusercontent.com/121384742/227378890-92b4b7b2-4b0d-4f65-b2f1-cdd7dc940665.png) </a>
-
+<a href="https://www.linkedin.com/in/ibrahimozsoy/"> ![LinkedIn](https://user-images.githubusercontent.com/121384742/227380555-019fbc38-cb5b-49eb-b8a2-8e80da58de43.png) </a>
 
 Ibrahim Ozsoy
+
 <!--
 **ozsoyibrahim/ozsoyibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
