@@ -13,6 +13,29 @@
 * I'm a fan of clean, functional, workable and readable coding.
 
 * I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
+ <div className="stage-cube-cont">
+          <div className="cubespinner">
+            <div className="face1">
+              <FontAwesomeIcon icon={faAngular} color="#DD0031" />
+            </div>
+            <div className="face2">
+              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+            </div>
+            <div className="face3">
+              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+            </div>
+            <div className="face4">
+              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+            </div>
+            <div className="face5">
+              <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+            </div>
+            <div className="face6">
+              <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
+            </div>
+          </div>
+        </div>
+      </div>
 
 ![html-css-js](https://user-images.githubusercontent.com/121384742/227380366-3c814086-6fa5-41ae-ab3f-c8180823f815.png) ![bootstrap](https://user-images.githubusercontent.com/121384742/227380387-11fd5e69-066f-459a-8592-089b55f555da.png) ![sass](https://user-images.githubusercontent.com/121384742/227380418-f870b122-6e37-4c1d-af8b-605d4cf899d4.png) ![slack](https://user-images.githubusercontent.com/121384742/227380881-979f4eaa-81e8-4344-9eaf-17c1ff240150.png) ![figma](https://user-images.githubusercontent.com/121384742/227380464-aa9a7da4-00d9-48e2-869c-0e810db2f3c9.png) ![github2](https://user-images.githubusercontent.com/121384742/227380492-cab0a0f1-308c-40cf-82cc-634aca68685e.png)
 
