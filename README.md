@@ -14,23 +14,24 @@
 
 * I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
  <div className="stage-cube-cont">
-          <div className="cubespinner">
-            <div className="face1">
+ 
+          <div class="cubespinner">
+            <div class="face1">
               <FontAwesomeIcon icon={faAngular} color="#DD0031" />
             </div>
-            <div className="face2">
+            <div class="face2">
               <FontAwesomeIcon icon={faHtml5} color="#F06529" />
             </div>
-            <div className="face3">
+            <div class="face3">
               <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
             </div>
-            <div className="face4">
+            <div class="face4">
               <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
             </div>
-            <div className="face5">
+            <div class="face5">
               <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
             </div>
-            <div className="face6">
+            <div class="face6">
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
             </div>
           </div>
