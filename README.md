@@ -13,8 +13,8 @@
 * I'm a fan of clean, functional, workable and readable coding.
 
 * I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
- <div className="stage-cube-cont">
- 
+
+<div class="stage-cube-cont"> 
           <div class="cubespinner">
             <div class="face1">
               <FontAwesomeIcon icon={faAngular} color="#DD0031" />
